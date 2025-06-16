@@ -1,4 +1,4 @@
-const age  = 100;
+const age  = 21;
 console.log("Hello")
 console.log("welcome to the github")
 function func() {
